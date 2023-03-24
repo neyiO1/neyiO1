@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @neyiO1
-- 👀 I’m interested in ... Artificial Inteligence
-- 🌱 I’m currently learning ...Python and HTML
+- 👀 I’m interested in ... Artificial Inteligence,Data Science and DevOps
+- 🌱 I’m currently learning ...Python and HTML,Css,JAvascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
